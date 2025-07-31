@@ -1,3 +1,15 @@
+# How to run this app:-
+
+1. clone
+2. pip install -requirements.txt
+3. uvicorn main:app --reload
+4. hit this url in chrom or any web
+    -> http://localhost:8000/
+    -> http://0.0.0.0:8000/
+
+any above will work
+
+
 
 
 # Getting Started with Create React App
