@@ -1,0 +1,8 @@
+.git
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.env  # Remove if you want to include it (not recommended for production)
+node_modules
